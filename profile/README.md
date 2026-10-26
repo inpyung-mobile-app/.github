@@ -23,3 +23,5 @@
 ├── 그 외
 ```
 > 문제 모듈 3개 = 브랜치 3개 (A-Module - B-Module - C-Module)
+
+[Git 저장소 생성 및 프로젝트 푸쉬](https://app.notion.com/p/405e6fa7a8d9804e9273c8da1a498262?source=copy_link)
